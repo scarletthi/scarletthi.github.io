@@ -1,0 +1,16 @@
+body{ background-color: lightcyan;
+    margin: 0 20%}
+h1{color: navy;}
+div#sidebar {
+width:25%;
+float:left;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+div#content{
+margin-left: 25%;
+}
+div#footer{
+margin-top: 100px;
+border-top: 5px solid #aaa;
+}
